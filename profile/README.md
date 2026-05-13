@@ -113,8 +113,8 @@ Ferment-AI는 유통 블랙박스를 데이터로 시각화하여 사장님께 *
 
 <table align="center">
  <tr align="center">
-     <td><B>이아림<B></td>
      <td><B>장유진<B></td>
+     <td><B>이아림<B></td>
  </tr>
  <tr align="center">
      <td>
